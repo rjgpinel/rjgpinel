@@ -1,4 +1,4 @@
-### Hi I'm Ricardo 👋 👨‍💻
+### Hi! I'm Ricardo 👋 👨‍💻
 
 <!--
 **rjgpinel/rjgpinel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitHub Ricardo](https://img.shields.io/github/followers/rjgpinel?label=follow&style=social)](https://github.com/rjgpinel)
+
+<img src="https://user-images.githubusercontent.com/37745001/134813026-8a082d0f-aa50-4ec8-a912-93d82ffb6a00.png" alt="UR5-pxArt" width="80"/>
