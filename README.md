@@ -1,5 +1,13 @@
 ## Hi! I'm Ricardo 👋 👨‍💻
 
+📍 Living in Paris 
+I spend my time learning and working on:
+  👁️ Computer Vision
+  🤖 Robotics
+  🎮 Reinforcement Learning
+  📚 Natural Language
+  
+  
 <!--
 **rjgpinel/rjgpinel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
