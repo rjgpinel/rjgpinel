@@ -1,7 +1,7 @@
 ## Hi! I'm Ricardo <img src="https://user-images.githubusercontent.com/37745001/141993497-1a77e330-105d-40e2-b590-3cc45b4f9212.png" alt="Moguri"/>  
 
 📍 Living in Paris  
-👨‍💻 I am a PhD Candidate in Computer Vision and Robotics at <a href="https://rjgpinel.github.io/">Inria Paris</a>  
+👨‍💻 I am a PhD Candidate in Computer Vision and Robotics at <a href="https://www.inria.fr/en">Inria Paris</a>  
 
 I spend my time learning and working on:  
 &nbsp;&nbsp;&nbsp;&nbsp;![x_button](https://user-images.githubusercontent.com/37745001/141998723-da828fdb-248d-4a48-b07f-030a8d863086.png) Computer Vision  
