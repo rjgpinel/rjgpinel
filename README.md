@@ -2,6 +2,7 @@
 
 📍 Living in Paris  
 👨‍💻 I am a PhD Candidate in Computer Vision and Robotics at <a href="https://rjgpinel.github.io/">Inria Paris</a>  
+
 I spend my time learning and working on:  
 &nbsp;&nbsp;&nbsp;&nbsp;![x_button](https://user-images.githubusercontent.com/37745001/141998723-da828fdb-248d-4a48-b07f-030a8d863086.png) Computer Vision  
 &nbsp;&nbsp;&nbsp;&nbsp;![y_button](https://user-images.githubusercontent.com/37745001/141998945-18c57638-1b95-4c31-8661-3e86d7a27015.png) Robotics  
