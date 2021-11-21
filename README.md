@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 If you would like to know a bit more about the projects I've been working on, please visit [my personal website](https://rjgpinel.github.io/)!  
 
-<img align="center" src="https://user-images.githubusercontent.com/37745001/134813026-8a082d0f-aa50-4ec8-a912-93d82ffb6a00.png" alt="UR5-pxArt" height="140"/>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=rjgpinel&show_icons=true&theme=dracula" alt="github stats rjgpinel" /> 
+<img align="center" src="https://user-images.githubusercontent.com/37745001/134813026-8a082d0f-aa50-4ec8-a912-93d82ffb6a00.png" alt="UR5-pxArt" height="140"/>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=rjgpinel&show_icons=true&theme=dracula" alt="github stats rjgpinel" /> 
 
 ![GitHub Counter of visits Ricardo](https://komarev.com/ghpvc/?username=rjgpinel&color=lightgrey)
 [![GitHub Ricardo](https://img.shields.io/github/followers/rjgpinel?label=follow&style=social)](https://github.com/rjgpinel)
