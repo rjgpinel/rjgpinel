@@ -1,7 +1,7 @@
-## Hi! I'm Ricardo <img src="https://user-images.githubusercontent.com/37745001/141993497-1a77e330-105d-40e2-b590-3cc45b4f9212.png" alt="Moguri"/>  
+## Hi! I'm Ricardo <img src="https://user-images.githubusercontent.com/37745001/142774803-2c8df107-5239-4146-90d8-6a68e0c63321.png" alt="Moguri"/>  
 
 📍 Living in Paris  
-👨‍💻 I am a PhD Candidate in Computer Vision and Robotics at <a href="https://www.inria.fr/en">Inria Paris</a>  
+👨‍💻 I am a PhD Candidate at <a href="https://www.inria.fr/en">Inria Paris</a>  
 
 I spend my time learning and working on:  
 &nbsp;&nbsp;&nbsp;&nbsp;![x_button](https://user-images.githubusercontent.com/37745001/141998723-da828fdb-248d-4a48-b07f-030a8d863086.png) Computer Vision  
@@ -29,9 +29,7 @@ Here are some ideas to get you started:
 
 If you would like to know a bit more about the projects I've been working on, please visit [my personal website](https://rjgpinel.github.io/)!  
 
-<img align="center" src="https://user-images.githubusercontent.com/37745001/134813026-8a082d0f-aa50-4ec8-a912-93d82ffb6a00.png" alt="UR5-pxArt" width="100"/> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rjgpinel" alt="github stats rjgpinel" />
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://user-images.githubusercontent.com/37745001/134813026-8a082d0f-aa50-4ec8-a912-93d82ffb6a00.png" alt="UR5-pxArt" height="140"/>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=rjgpinel&show_icons=true&theme=dracula" alt="github stats rjgpinel" /> 
 
 ![GitHub Counter of visits Ricardo](https://komarev.com/ghpvc/?username=rjgpinel&color=lightgrey)
 [![GitHub Ricardo](https://img.shields.io/github/followers/rjgpinel?label=follow&style=social)](https://github.com/rjgpinel)
